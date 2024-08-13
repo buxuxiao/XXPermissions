@@ -71,6 +71,6 @@ tasks.register('javadocJar', Jar) {
 }
 
 artifacts {
-    archives javadocJar
+//    archives javadocJar
     archives sourcesJar
 }
